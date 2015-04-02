@@ -5,6 +5,8 @@
 ### Vieshed analysis
 - [MILLER-2011-analysis-of-viewshed-accuracy-with-variable-resolution-LIDAR-digital-surface-models-and-photogrammetrically-derived-digital-elevation-models.pdf](http://www.researchgate.net/profile/Laurence_Carstensen/publication/266174903_Analysis_of_Viewshed_Accuracy_with_Variable_Resolution_LIDAR_Digital_Surface_Models_and_Photogrammetrically-_Derived_Digital_Elevation_Models_Master_of_Science_In_Geography/links/54da20820cf2970e4e7dc3ff.pdf)
 
+- [HAMILTON-2010-integrating-lidar-GIS-and-hedonic-price-modeling-to-measure-amenity-values-in-urban-beach-residential-property-markets](http://www.sciencedirect.com/science/article/pii/S0198971509000805)
+
 ### Building modeling
 - [ZHOU-NEUMANN-2008-Fast and Extensible Building Modeling from Airborne LiDAR Data](http://web.stanford.edu/~qianyizh/papers/modeling_gis.pdf)
 
