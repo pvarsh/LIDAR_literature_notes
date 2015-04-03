@@ -16,14 +16,16 @@
 ### No access
 - [Viewshed characteristics of urban pedestrian trails, Indianapolis, Indiana, USA](http://www.tandfonline.com/doi/pdf/10.4113/jom.2008.1014)
 - [Digital elevation model technologies and applications: the DEM users manual (Book), 2001](http://www.geomorphometry.org/content/digital-elevation-model-technologies-and-applications-dem-users-manual)
-- 
 
 ### Blogs and pop sci
 - https://imageryspeaks.wordpress.com/2013/06/11/viewshed-analysis-with-lidar/
 
-
+## Textbooks and chapters
+- [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
+	- [Ch 24. Linear image processing: Fourier Image Analysis](Chapter 24: Linear Image Processing)
 
 
 ## Software
 - [Geoweb3d](http://www.geoweb3d.com/) - [YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=0CCsQtwIwAg&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZi_oPZocO38&ei=TJUcVbaIIYybyAT2mIDACQ&usg=AFQjCNHeevNU5xPjOdrc9hZwbKTAwrBL4g&sig2=2DPi2XXHM-QA-SR767g7VQ)
 - [ENVI LiDAR](http://www.exelisvis.com/ProductsServices/ENVIProducts/ENVILiDAR.aspx), [YouTube](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0CCUQtwIwAQ&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D10KHQflNy1o&ei=TJUcVbaIIYybyAT2mIDACQ&usg=AFQjCNF3VwuxQCk9Nwfen3VSuv3TcRcjvA&sig2=dWwLI7p6CUNNyCfaWst69g)
+- [QGIS Viewshed Tool](https://plugins.qgis.org/plugins/ViewshedAnalysis/)
