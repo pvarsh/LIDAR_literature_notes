@@ -23,6 +23,7 @@
 ## Textbooks and chapters
 - [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com/pdfbook.htm)
 	- [Ch 24. Linear image processing: Fourier Image Analysis](Chapter 24: Linear Image Processing)
+- [Fourier Transform](http://homepages.inf.ed.ac.uk/rbf/HIPR2/fourier.htm): good introduction to spectral analysis of images.
 
 
 ## Software
