@@ -5,6 +5,7 @@
 ### LIDAR Primers
 - [What to do with LIDAR data (presentation slides)](http://megug.org/wp-content/uploads/2011/06/WhatToDoWithLiDAR.pdf)
 - [Lidar mapping factsheet](https://www.wou.edu/las/physci/taylor/g473/lidar_fact_sheet.pdf)
+- [DEM, DTM, DSM: what are different models?](http://gis.stackexchange.com/questions/5701/what-is-the-difference-between-dem-dsm-and-dtm)
 
 ### Vieshed analysis
 - [MILLER-2011-analysis-of-viewshed-accuracy-with-variable-resolution-LIDAR-digital-surface-models-and-photogrammetrically-derived-digital-elevation-models.pdf](http://www.researchgate.net/profile/Laurence_Carstensen/publication/266174903_Analysis_of_Viewshed_Accuracy_with_Variable_Resolution_LIDAR_Digital_Surface_Models_and_Photogrammetrically-_Derived_Digital_Elevation_Models_Master_of_Science_In_Geography/links/54da20820cf2970e4e7dc3ff.pdf)
