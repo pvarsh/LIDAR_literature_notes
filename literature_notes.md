@@ -1,6 +1,9 @@
 # List of papers and other resources
 
 ## Papers
+### NYC LIDAR
+- Sean Ahern: [Presentation slides on NYC dataset](http://www.carsilab.org/INDEX/CURRENTAFFAIRS/lidar/Ahearn_ASPRS_2011_f.pdf)
+- 
 
 ### LIDAR Primers
 - [What to do with LIDAR data (presentation slides)](http://megug.org/wp-content/uploads/2011/06/WhatToDoWithLiDAR.pdf)
