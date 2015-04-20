@@ -19,17 +19,26 @@
 - [HAGSTROM-2012: **Line of sight** measurement in **large urban areas** using voxelized
 LIDAR](http://www.cis.rit.edu/DocumentLibrary/admin/uploads/CIS000164.pdf)
 - [HAGSTROM-2011: Line of sight analysis using voxelized discrete LIDAR](http://www.cis.rit.edu/DocumentLibrary/admin/uploads/CIS000173.pdf)
+- Guth, 2012 [PROBABILISTIC LINE-OF-SIGHT WITH LIDAR POINT CLOUDS](http://www.asprs.org/a/publications/proceedings/Sacramento2012/files/Guth.pdf)
 
 ### Building modeling
 - [ZHOU-NEUMANN-2008-Fast and Extensible Building Modeling from Airborne LiDAR Data](http://web.stanford.edu/~qianyizh/papers/modeling_gis.pdf)
+- Tse, Gold, Kidner 2006 [A new approach to urban modeling based on LIDAR](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.119.6630&rep=rep1&type=pdf)
+- Bohm, 2005 [Efficient integration of aerial and terrestrial laser data for virtual city modeling uUsing LASERMAPs](http://elib.uni-stuttgart.de/opus/volltexte/2007/3254/)
+- Tse, Gold, Kidner 2008 (Book chapter) [3D City Modelling from LIDAR Data](http://link.springer.com/chapter/10.1007/978-3-540-72135-2_10)
 
 ### Object classification
 - Boyko, Funkhouser 2014 [Group Annotation of LIDAR data](http://gfx.cs.princeton.edu/gfx/pubs/Boyko_2014_CBT/index.php) (PhD Thesis)
 - Boyko, Funkhouser [Extracting roads from dense point clouds in large scale
 urban environment](https://www.cs.princeton.edu/~funk/roads11.pdf)
+- MacFaden, 2012 [High-resolution tree canopy mapping for New York City using LIDAR and object-based image analysis](http://remotesensing.spiedigitallibrary.org/article.aspx?articleid=1358118)
+- Secord, 2007 [Tree Detection in Urban Regions Using Aerial LiDAR and Image Data](http://www-video.eecs.berkeley.edu/papers/JSecord2/grsl.pdf)
 
 ### Other
 - [GESCH-2009-analysis-of-lidar-elevation-data-for-improved-identification-and-delineation-of-lands-vulnerable-to-sea-level-rise](http://topotools.cr.usgs.gov/pdfs/jcr_gesch_SI53.pdf)
+- Jakubiek 2013 [A method for predicting city-wide electricity gains from photovoltaic panels based on LiDAR and GIS data combined with hourly Daysim simulations](http://www.sciencedirect.com/science/article/pii/S0038092X13001291)
+- Batty 2005 [Visualizing the city: communicating urban design to planners and decision-makers](http://discovery.ucl.ac.uk/158113/)
+- 
 
 ### No access
 - [Viewshed characteristics of urban pedestrian trails, Indianapolis, Indiana, USA](http://www.tandfonline.com/doi/pdf/10.4113/jom.2008.1014)
