@@ -4,15 +4,17 @@
 ### NYC LIDAR
 
 - Sean Ahern: [Presentation slides on NYC dataset](http://www.carsilab.org/INDEX/CURRENTAFFAIRS/lidar/Ahearn_ASPRS_2011_f.pdf)
+- [NYC Solar Map (CUNY, 2011)](http://nycsolarmap.com/)
 
 ### LIDAR Primers
 - [What to do with LIDAR data (presentation slides)](http://megug.org/wp-content/uploads/2011/06/WhatToDoWithLiDAR.pdf)
 - [Lidar mapping factsheet](https://www.wou.edu/las/physci/taylor/g473/lidar_fact_sheet.pdf)
 - [DEM, DTM, DSM: what are different terrain models?](http://gis.stackexchange.com/questions/5701/what-is-the-difference-between-dem-dsm-and-dtm)
+- TIN: Triangulated Irregular Network model ([Wikipedia](http://en.wikipedia.org/wiki/Triangulated_irregular_network))
 - [An overview of LIDAR for Urban Applications](http://geol.queensu.ca/faculty/harrap/pdf/WhatIsLIDAR_release1.pdf)
 
 ### Vieshed analysis
-- [MILLER-2011-analysis-of-viewshed-accuracy-with-variable-resolution-LIDAR-digital-surface-models-and-photogrammetrically-derived-digital-elevation-models.pdf](http://www.researchgate.net/profile/Laurence_Carstensen/publication/266174903_Analysis_of_Viewshed_Accuracy_with_Variable_Resolution_LIDAR_Digital_Surface_Models_and_Photogrammetrically-_Derived_Digital_Elevation_Models_Master_of_Science_In_Geography/links/54da20820cf2970e4e7dc3ff.pdf)
+- [MILLER-2011-analysis-of-viewshed-accuracy-with-variable-resolution-LIDAR-digital-surface-models-and-photogrammetrically-derived-digital-elevation-models.pdf](http://www.researchgate.net/profile/Laurence_Carstensen/publication/266174903_Analysis_of_Viewshed_Accuracy_with_Variable_Resolution_LIDAR_Digital_Surface_Models_and_Photogrammetrically-_Derived_Digital_Elevation_Models_Master_of_Science_In_Geography/links/54da20820cf2970e4e7dc3ff.pdf) (Masters thesis)
 
 - [HAMILTON-2010-integrating-lidar-GIS-and-hedonic-price-modeling-to-measure-amenity-values-in-urban-beach-residential-property-markets](http://www.sciencedirect.com/science/article/pii/S0198971509000805)
 ###### Line of sight analysis
@@ -20,6 +22,22 @@
 LIDAR](http://www.cis.rit.edu/DocumentLibrary/admin/uploads/CIS000164.pdf)
 - [HAGSTROM-2011: Line of sight analysis using voxelized discrete LIDAR](http://www.cis.rit.edu/DocumentLibrary/admin/uploads/CIS000173.pdf)
 - Guth, 2012 [PROBABILISTIC LINE-OF-SIGHT WITH LIDAR POINT CLOUDS](http://www.asprs.org/a/publications/proceedings/Sacramento2012/files/Guth.pdf)
+- Murgoitio, 2013 [Improved visibility calculations with tree trunk obstruction modeling from aerial LIDAR](http://www.tandfonline.com/doi/abs/10.1080/13658816.2013.767460)
+
+### Ray tracing
+- Bresenham's line rasterization algorithm ([Wikipedia](http://en.wikipedia.org/wiki/Bresenham%27s_line_algorithm))
+- Amanatides and Woo, 1987 [A Fast Voxel Traversal Algorithm for Ray Tracing](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.42.3443)
+- Whilhelmsen, 2012 [Efficient Ray Tracing of Sparse Voxel Octrees on an FPGA](http://www.diva-portal.org/smash/get/diva2:567036/FULLTEXT01.pdf) (Masters Thesis)
+- Zalik et al., 2008 [An Efficient Code-Based Voxel-Traversing Algorithm](http://onlinelibrary.wiley.com/doi/10.1111/1467-8659.00128/abstract)
+
+
+### Insolation - the sun index
+- Gringsby, 2010 [Derivation of Solar Insolation Estimates from LiDAR](http://digitool.library.colostate.edu///exlibris/dtl/d3_1/apache_media/L2V4bGlicmlzL2R0bC9kM18xL2FwYWNoZV9tZWRpYS8xMTkyOTU=.pdf) (honors thesis (undergrad?))
+- Sanborn Map Company, 2011 [LiDAR and the Power of Solar, NYC](http://www.sanborn.com/sites/default/files/files/whitepaper_SOLAR-MAPPING.pdf)
+- [First large coverage solar cadaster for building
+facades using LiDAR data and City Models](http://www.laserdata.at/data/solar/First_large_coverage_facades_solar_cadaster_from_LiDAR_data_and_city_model.pdf)
+- Redweik, 2011 [PV POTENTIAL ESTIMATION USING 3D LOCAL SCALE SOLAR RADIATION MODEL BASED ON URBAN LIDAR DATA](http://www.academia.edu/907648/PV_POTENTIAL_ESTIMATION_USING_3D_LOCAL_SCALE_SOLAR_RADIATION_MODEL_BASED_ON_URBAN_LIDAR_DATA)
+
 
 ### Building modeling
 - [ZHOU-NEUMANN-2008-Fast and Extensible Building Modeling from Airborne LiDAR Data](http://web.stanford.edu/~qianyizh/papers/modeling_gis.pdf)
@@ -29,6 +47,7 @@ LIDAR](http://www.cis.rit.edu/DocumentLibrary/admin/uploads/CIS000164.pdf)
 
 ### Object classification
 - Boyko, Funkhouser 2014 [Group Annotation of LIDAR data](http://gfx.cs.princeton.edu/gfx/pubs/Boyko_2014_CBT/index.php) (PhD Thesis)
+	- ([YouTube presentation](https://www.youtube.com/watch?v=SEcg-R0yyR0&feature=youtu.be))
 - Boyko, Funkhouser [Extracting roads from dense point clouds in large scale
 urban environment](https://www.cs.princeton.edu/~funk/roads11.pdf)
 - MacFaden, 2012 [High-resolution tree canopy mapping for New York City using LIDAR and object-based image analysis](http://remotesensing.spiedigitallibrary.org/article.aspx?articleid=1358118)
